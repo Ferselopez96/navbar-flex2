@@ -6,11 +6,11 @@ header{
 .navbar{
     display: flex;
     justify-content: center;
-    gap: 1.25;
+    gap: 20px;
     list-style: none;
 }
 
-.navbar lu a{
+.navbar li a{
 
     text-decoration: none;
     color: white;
